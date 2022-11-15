@@ -1,0 +1,8 @@
+brand,name,type,price,doors,seats,mpg,total capacity,range,storage,drive type,cilender count,hp,tourque,top speed,fuel type
+alfa romeo,Stelvio,suv,84650,4,5,19,16.9,321.1,0,AWD,6,505,306,144,HIGHOCTANE
+alfa romeo,Giulia,sedan,86900,4,5,20,20,400,0,RWD,6,505,443,144,HIGHOCTANE
+bmw,M3,sedan,76700,4,5,18,15.6,280.8,0,RWD,6,503,479,180,HIGHOCTANE
+bmw,M4,coupe,82700,2,2,18,15.6,280.8,0,AWD,6,503,479,180,HIGHOCTANE
+bmw,M5,sedan,107900,4,5,17,20.1,341.7,0,AWD,8,600,553,180,HIGHOCTANE
+bmw,M8,coupe,134100,2,2,17,20.1,341.7,0,AWD,8,617,553,190,HIGHOCTANE
+bmw,Z4M40i,convertable,65300,2,2,17,13.7,232.9,0,RWD,6,382,368,155,HIGHOCTANE
